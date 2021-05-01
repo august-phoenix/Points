@@ -23,7 +23,7 @@
       <td>fill in</td>
       <td>fill in</td>
       <td>fill in</td>
-      <td scope="minus-points">-1</td>
+      <td scope="minus-points">fill in</td>
     </tr>
     <tr>
       <td>fill in</td>
