@@ -14,10 +14,10 @@
   </thead>
   <tbody>
     <tr>
-      <td>fill in</td>
-      <td>fill in</td>
-      <td>fill in</td>
-      <td scope="plus-points">+1</td>
+      <td>Played game</td>
+      <td>10:15</td>
+      <td>11:15</td>
+      <td scope="plus-points">-2</td>
     </tr>
     <tr>
       <td>fill in</td>
@@ -62,7 +62,7 @@
       <td>fill in</td>
     </tr>
     <tr>
-      <td>Total number or points: 3</td>
+      <td>Total number or points: 1</td>
     </tr>
   </tbody>
 </table>
