@@ -1,7 +1,7 @@
 <html>
  <head>
    <link rel="stylesheet" href="styles.css"/>
- </haed>
+ </head
    <body>
 <table style="width:100%">
   <thead>
@@ -63,7 +63,6 @@
     </tr>
     <tr>
       <td>Total number or points: 3</td>
-      
     </tr>
   </tbody>
 </table>
