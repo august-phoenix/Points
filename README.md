@@ -1,17 +1,64 @@
 <table style="width:100%">
-  <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
+  <thead>
+    <tr>
+      <th>Thing done</th>
+      <th>Time started</th>
+      <th>Time ended</th>
+      <th>Points earned</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+    </tr>
+    <tr>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+    </tr>
+    <tr>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+    </tr>
+    <tr>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+    </tr>
+    <tr>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+    </tr>
+    <tr>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+    </tr>
+    <tr>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+    </tr>
+    <tr>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+      <td>fill in</td>
+    </tr>
+    <tr>
+      <td>Total number or points: 3</td>
+      
+    </tr>
+  </tbody>
 </table>
